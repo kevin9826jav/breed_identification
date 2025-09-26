@@ -87,8 +87,12 @@ Contributions to improve the project are welcome. Please follow these steps:
 
 ## Contact
 
-dharunjagan009@gmail.com
+kevinpatel.jav@gmail.com
 
 ---
 
-Developed with ❤️ by Dharun & Harish 
+Developed with ❤️ by kevin
+
+---
+
+orignal repo :https://github.com/Dharundp6/Indian_Bovine
